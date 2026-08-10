@@ -1,0 +1,29 @@
+{
+  "url": "https://sports-daily.publume.dev/",
+  "name": "Sports Daily",
+  "description": "A bilingual daily sports briefing highlighting important results, performances, and upcoming context without noise.",
+  "tagline": "Daily results, context, and the next key matchup.",
+  "locale": "en",
+  "outputLanguages": [
+    "zh-CN",
+    "en"
+  ],
+  "defaultContentLanguage": "en",
+  "publisherName": "Publume Sports Desk",
+  "authorName": "Sports Daily",
+  "contactUrl": "",
+  "aiDisclosure": "",
+  "socialImageUrl": "",
+  "newsletterUrl": "",
+  "sponsorUrl": "",
+  "showTopics": true,
+  "showScore": false,
+  "showSources": true,
+  "footerText": "",
+  "presentation": {
+    "schemaVersion": 1,
+    "ads": {
+      "provider": "none"
+    }
+  }
+}
